@@ -1,1 +1,1 @@
-Select * from example where CLIENTID>6
+Select * from HYPER_DB.PUBLIC.example where CLIENTID>6
