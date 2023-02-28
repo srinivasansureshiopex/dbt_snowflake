@@ -1,1 +1,1 @@
-Select * from example where CLIENTID>6;
+Select * from example where CLIENTID>6
