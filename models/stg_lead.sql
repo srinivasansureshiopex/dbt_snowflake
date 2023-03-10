@@ -4,4 +4,4 @@
 
 With Lead_table as
 (Select * from "Lead")
-Select Lead_table."Case_ID_internal" from Lead_table
+Select * from Lead_table
